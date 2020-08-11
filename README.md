@@ -2,7 +2,7 @@
 
 학습 데이터로 한국의 대표기업인 삼성전자를 사용하였습니다.
 
-![samsung](https://user-images.githubusercontent.com/50981989/89871074-c6f88b00-dbf1-11ea-855c-a6d2e7b41975.PNG)
+<img src="https://user-images.githubusercontent.com/50981989/89871074-c6f88b00-dbf1-11ea-855c-a6d2e7b41975.PNG"  width="200" height="170">
 
 # Overview
 
