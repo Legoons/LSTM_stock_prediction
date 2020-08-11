@@ -17,8 +17,6 @@ RNN의 vanishing gradient problem은 주가예측에 치명적이기 때문에 l
 
 # Result
 
-train-test를 0.8 : 0.2 로 분할하여 예측하였고,
+train-test를 0.8 : 0.2 로 분할하여 예측하였고, 꽤나 근사한 추세를 얻어낼 수 있었습니다.
 
-꽤나 근사한 결과값을 얻어낼 수 있었습니다.
-
-<img src="https://user-images.githubusercontent.com/50981989/89870395-bc89c180-dbf0-11ea-86fb-49e9344df451.PNG"  width="900" height="500">
+<img src="https://user-images.githubusercontent.com/50981989/89871913-2905c000-dbf3-11ea-88fc-7a45bba170b5.PNG"  width="900" height="500">
