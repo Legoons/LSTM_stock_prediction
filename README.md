@@ -10,7 +10,7 @@
 
 따라서 과거 데이터를 계속해서 학습시켜 모델링 하는 Recurrent Neural Network 모델이 예측에 적합하다고 판단됩니다.
 
-<img src="https://user-images.githubusercontent.com/50981989/89870391-bbf12b00-dbf0-11ea-8783-b926b186efd1.png"  width="700" height="370">
+<img src="https://user-images.githubusercontent.com/50981989/89870391-bbf12b00-dbf0-11ea-8783-b926b186efd1.png"  width="700" height="470">
 
 RNN의 vanishing gradient problem은 주가예측에 치명적이기 때문에 lstm 모델을 사용하였습니다.
 
